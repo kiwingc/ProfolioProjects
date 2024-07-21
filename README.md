@@ -7,11 +7,11 @@ It does not contain any null value.
 
 **Objectives**
 
-1. Find out the trends and patterns of the coffee shop.
-2. Which product category have the most transactions.
-3. Top 3 best-selling product in coffee.
-4. Average quantity and bill amount.
-5. Peak period of sales.
+1. Identify trends and patterns within the coffee shop's operations.
+2. Determine the product category with the highest transaction numbers.
+3. Identify the top three best-selling products in the coffee shop.
+4. Calculate the average quantity purchased and average bill amount per transaction.
+5. Identify the peak sales periods based on transaction data.
 
 
 **Results**
