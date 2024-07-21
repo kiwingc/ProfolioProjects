@@ -21,18 +21,20 @@ It does not contain any null value.
 <img width="470" alt="image" src="https://github.com/user-attachments/assets/2512ac09-6e08-4d31-acc1-d3c9c9530e7d">
 
    
-3. Most people buy coffee among all products.
+2. Most people buy coffee among all products.
 <img width="658" alt="image" src="https://github.com/user-attachments/assets/fb664823-7102-49f5-b3fe-d3b094dcce01">
 
    
-4. Gourmet brewed coffee and Barista Espresso have similar transaction numbers, while transactions for organic brewed coffee are 50% lower than both.
+3. Gourmet brewed coffee and Barista Espresso have similar transaction numbers, while transactions for organic brewed coffee are 50% lower than both.
 <img width="527" alt="image" src="https://github.com/user-attachments/assets/5f660338-40e2-42f9-9fb1-aca6d865418f">
 
    
-5. In average, each customer buy 1.44 products with a $4..83 amount of bill.
+4. In average, each customer buy 1.44 products with a $4..83 amount of bill.
+
 avg_qty	avg_bill
 1.4383	4.8159![image](https://github.com/user-attachments/assets/d98e9181-26f7-49e6-ad10-253a495dcff9)
 
    
-6. The peak sales period occurs in the morning, with a 16.6% decrease in the afternoon and a 49.5% drop in the evening.
-<img width="571" alt="image" src="https://github.com/user-attachments/assets/22c8ceff-c034-47b7-a84f-f51f6c675aad">
+5. The peak sales period occurs in the morning, with a 16.6% decrease in the afternoon and a 49.5% drop in the evening.
+<img width="571" alt="image" src="https://github.com/user-attachments/assets/ad3343a1-5690-4ec9-9968-eabb361ebe9f">
+
