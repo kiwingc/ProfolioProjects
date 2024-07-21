@@ -21,3 +21,5 @@ It does not contain any null value.
 3. Gourmet brewed coffee and Barista Espresso have similar transaction numbers, while transactions for organic brewed coffee are 50% lower than both.
 4. In average, each customer buy 1.44 products with a $4..83 amount of bill.
 5. The peak sales period occurs in the morning, with a 16.6% decrease in the afternoon and a 49.5% drop in the evening.
+
+<img width="571" alt="image" src="https://github.com/user-attachments/assets/22c8ceff-c034-47b7-a84f-f51f6c675aad">
