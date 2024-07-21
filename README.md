@@ -13,7 +13,6 @@ It does not contain any null value.
 4. Average quantity and bill amount.
 5. Peak period of sales.
 
-![IMG_0289](https://github.com/user-attachments/assets/0cc997b9-6410-455a-8245-6205ea846101)
 
 **Results**
 
