@@ -5,6 +5,7 @@ It contains the transaction id of every customer and their order description.
 It does not contain any null value.
 
 
+
 **Objectives**
 
 1. Identify trends and patterns within the coffee shop's operations.
@@ -16,6 +17,8 @@ It does not contain any null value.
 **Analyzing data using SQL queries**
 
 _Please check out the 'Coffee Shop Sales Analysis_scripts.sql' file for detailed SQL query information._
+
+
 
 **Results**
 
