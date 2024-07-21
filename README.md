@@ -13,6 +13,8 @@ It does not contain any null value.
 4. Calculate the average quantity purchased and average bill amount per transaction.
 5. Identify the peak sales periods based on transaction data.
 
+**Analyzing data using SQL queries**
+_Please check out the 'Coffee Shop Sales Analysis_scripts.sql' file for detailed SQL query information._
 
 **Results**
 
