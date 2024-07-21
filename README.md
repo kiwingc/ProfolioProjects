@@ -33,7 +33,6 @@ It does not contain any null value.
 
    
 4. In average, each customer buy 1.44 products with a $4..83 amount of bill.
-![image](https://github.com/user-attachments/assets/d98e9181-26f7-49e6-ad10-253a495dcff9)
 
 
    
