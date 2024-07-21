@@ -7,7 +7,7 @@ It does not contain any null value.
 
 **Objectives**
 
-1. Find out the trends and pattern of the coffee shop.
+1. Find out the trends and patterns of the coffee shop.
 2. Which product category have the most transactions.
 3. Top 3 best-selling product in coffee.
 4. Average quantity and bill amount.
