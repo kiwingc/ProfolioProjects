@@ -45,3 +45,9 @@ _Please check out the 'Coffee Shop Sales Analysis_scripts.sql' file for detailed
 5. The peak sales period occurs in the morning, with a 16.6% decrease in the afternoon and a 49.5% drop in the evening.
 <img width="571" alt="image" src="https://github.com/user-attachments/assets/ad3343a1-5690-4ec9-9968-eabb361ebe9f">
 
+
+
+
+**Recommendations and next steps**
+
+Expand the analysis to include more years or months to examine whether this trend is seasonal related or consistent across time. 
